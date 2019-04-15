@@ -1,0 +1,15 @@
+if($_GET['action'] == 'attendance'){
+    $finger = $_GET['finger'];
+    $status = "Present";
+    $d = date("Y-m-d");
+    $t = date("h:i:s");
+    
+    $sql = "UPDATE fingerprint_attendance SET Date='$d', Time='$t', Status='$status' WHERE FingerId = '$finger'";
+    
+    if ($conn->query($sql) === TRUE) {
+        echo "Student is present";
+    } else {
+        echo "Error";
+    }
+}
+

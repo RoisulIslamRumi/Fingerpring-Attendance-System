@@ -1,0 +1,8 @@
+C:\Users\Zahir\Documents\Visual Studio 2017\Projects\Fp attendance\Fp attendance\bin\Debug\Fp attendance.exe
+C:\Users\Zahir\Documents\Visual Studio 2017\Projects\Fp attendance\Fp attendance\bin\Debug\Fp attendance.pdb
+C:\Users\Zahir\Documents\Visual Studio 2017\Projects\Fp attendance\Fp attendance\obj\Debug\Fp_attendance.Form1.resources
+C:\Users\Zahir\Documents\Visual Studio 2017\Projects\Fp attendance\Fp attendance\obj\Debug\Fp_attendance.Properties.Resources.resources
+C:\Users\Zahir\Documents\Visual Studio 2017\Projects\Fp attendance\Fp attendance\obj\Debug\Fp attendance.csproj.GenerateResource.cache
+C:\Users\Zahir\Documents\Visual Studio 2017\Projects\Fp attendance\Fp attendance\obj\Debug\Fp attendance.csproj.CoreCompileInputs.cache
+C:\Users\Zahir\Documents\Visual Studio 2017\Projects\Fp attendance\Fp attendance\obj\Debug\Fp attendance.exe
+C:\Users\Zahir\Documents\Visual Studio 2017\Projects\Fp attendance\Fp attendance\obj\Debug\Fp attendance.pdb
